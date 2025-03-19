@@ -2,7 +2,7 @@
 	path = odyssey-shared
 	url = https://github.com/vasigavr1/odyssey-shared.git
 [submodule "kite"]
-	url = git@github.com:vasigavr1/Kite.git
+	url = https://github.com/MadlerMark/Kite.git
 [submodule "Odyssey-lib"]
 	path = Odyssey-lib
-	url = git@github.com:vasigavr1/Odyssey-lib.git
+	url = https://github.com/vasigavr1/Odyssey-lib.git
